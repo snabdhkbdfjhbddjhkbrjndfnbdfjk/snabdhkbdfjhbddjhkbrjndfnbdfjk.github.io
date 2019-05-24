@@ -1,0 +1,405 @@
+.kartin{
+    width:600px;
+    height:600px;
+    padding:30px;
+   
+    background-image:url("FC_Barcelona.svg.png");
+   transition-duration:1.5s;
+    background-size: contain;
+    background-repeat: no-repeat;
+    display:inline-block;
+    
+}
+.kartin:hover{
+    border-radius:55px;
+    background-image:url("4876540.jpg"); 
+
+   
+}
+h1{ font-size:60px;
+    font-family:'Impact';
+    font-weight: bold;
+    text-align: center;}
+.igrok{
+    width:200px;
+    height: 50px;
+    margin: auto;
+  font-size:30px;
+    font-family:'Century Gothik';
+    font-weight: bold;
+    text-align: center; 
+     transition-duration:1.5s;
+    padding:5px;
+    color:white;
+    text-decoration: none;
+    
+
+}
+    .igrok:hover{
+        
+    border-radius:50%;
+        border: 3px solid white;
+        border-width:10px;
+       
+}
+.ruki{
+  font-size:25px;
+    font-family:'Century Gothik';
+    font-weight: bold;
+    text-align: center; 
+     transition-duration:1.5s;
+    padding:5px;
+      color:white;
+    text-decoration: none;
+     width:200px;
+    height: 50px;
+    margin:auto;
+       
+ 
+
+}
+    .ruki:hover{
+ border-radius:50%;
+        border: 3px solid white;
+        border-width:10px;
+}
+.dost{
+  font-size:25px;
+    font-family:'Century Gothik';
+    font-weight: bold;
+    text-align: center; 
+     transition-duration:1.5s;
+    padding:5px;
+      color:white;
+    text-decoration: none;
+     width:200px;
+    height: 50px;
+    margin:auto;
+       
+ 
+
+}
+    .dost:hover{
+     border-radius:50%;
+        border: 3px solid white;
+        border-width:10px;
+}
+.stadion{
+  font-size:30px;
+    font-family:'Century Gothik';
+    font-weight: bold;
+    text-align: center; 
+     transition-duration:1.5s;
+    padding:5px;
+      color:white;
+     width:200px;
+    height: 50px;
+    text-decoration: none;
+    margin:auto;
+       
+ 
+
+}
+    .stadion:hover{
+   border-radius:50%;
+        border: 3px solid white;
+        border-width:10px;
+}
+.opisanie{
+    width:400px;
+    position:absolute;
+    font-size:25px;
+  
+    display:inline-block;
+}
+body {
+   background-image: url("https://www.underconsideration.com/brandnew/archives/fc_barcelona_patterns_02.jpg");
+    color:white;
+    font-size:20px;
+   
+         
+}
+.messi{
+     width:600px;
+    height:600px;
+    padding:30px;
+    background-image:url("https://cdn.livesport.ru/l/football/2019/04/17/barcelona_manchester_united_press/picture.jpg?1555488162");
+     transition-duration:1.5s;
+    background-size: contain;
+    background-repeat: no-repeat;
+    display:inline-block;
+} 
+.messi:hover{
+    border-radius:55px;
+    background-image:url("https://cdni.rt.com/russian/images/2019.04/article/5cb9abfd370f2c8a148b4588.JPG"); 
+}
+    .suares{
+     width:600px;
+    height:600px;
+    padding:30px;
+    background-image:url("http://sport.img.com.ua/nxs217/b/orig/f/6c/2ac85aeb47e9a2e07eb561ed5206e6cf.JPG");
+     transition-duration:1.5s;
+    background-size: contain;
+    background-repeat: no-repeat;
+    display:inline-block;
+} 
+.suares:hover{
+    border-radius:55px;
+    background-image:url("https://img.championat.com/news/big/a/s/luis-suares_15166408201542514455.jpg"); 
+}
+     .pike{
+     width:600px;
+    height:600px;
+    padding:30px;
+    background-image:url("http://itd2.mycdn.me/image?id=833956448442&t=20&plc=WEB&tkn=*XGjJHgRs72B-CHA2Y6a1tZe3KDo");
+     transition-duration:1.5s;
+    background-size: contain;
+    background-repeat: no-repeat;
+    display:inline-block;
+} 
+.pike:hover{
+    border-radius:55px;
+    background-image:url("https://blaugrana.ru/wp-content/uploads/2019/01/1-4.jpg"); 
+}
+
+.home{
+    color:white;
+    font-size:40px;
+}
+.ernest{
+     width:600px;
+    height:600px;
+    padding:30px;
+    background-image:url("http://realmadrid.ru/images/upload/misc/5da77926a4a213ee7108bbee8c1c0939.jpg");
+     transition-duration:1.5s;
+    background-size: contain;
+    background-repeat: no-repeat;
+    display:inline-block;
+} 
+.ernest:hover{
+    border-radius:55px;
+    background-image:url("https://img.championat.com/news/big/n/b/ernesto-valverde_1496079778878540419.jpg"); 
+}
+.bart{
+     width:600px;
+    height:600px;
+    padding:30px;
+    background-image:url("https://espanarusa.com/files/autoupload/85/62/41/go5rvt3s368187.jpg");
+     transition-duration:1.5s;
+    background-size: contain;
+    background-repeat: no-repeat;
+    display:inline-block;
+} 
+.bart:hover{
+    border-radius:55px;
+    background-image:url("https://espanarusa.com/files/autoupload/8/46/67/fdorpaq5354660.jpg"); 
+}
+.kubok{
+     width:600px;
+    height:600px;
+    padding:30px;
+    background-image:url("http://magspace.ru/uploads/2011/03/14/Aberdin/magspace.ru_6_kubkov.jpg");
+     transition-duration:1.5s;
+    background-size: contain;
+    background-repeat: no-repeat;
+    display:inline-block;
+} 
+.kubok:hover{
+    border-radius:55px;
+    background-image:url("https://st3.depositphotos.com/1372245/19170/i/1600/depositphotos_191706220-stock-photo-barcelona-spain-january-2018-museum.jpg"); 
+}
+.camp{
+     width:600px;
+    height:600px;
+    padding:25px;
+    background-image:url("https://barcelonatm.ru/wp-content/uploads/2017/07/tur-po-kamp-nou-i-muzej-fk-barselona-5.jpg");
+     transition-duration:1.5s;
+    background-size: contain;
+    background-repeat: no-repeat;
+    display:inline-block;
+} 
+.camp:hover{
+    border-radius:55px;
+    background-image:url("https://football24.ua/resources/photos/news/1366x768_DIR/201804/453750.jpg?201804172300"); 
+}
+.camp2{
+     width:600px;
+    height:600px;
+    padding:25px;
+    background-image:url("https://comeonbarcelona.com/wp-content/uploads/2018/04/campnou.jpg");
+     transition-duration:1.5s;
+    background-size: contain;
+    background-repeat: no-repeat;
+    display:inline-block;
+} 
+.camp2:hover{
+    border-radius:55px;
+    background-image:url("http://obarcelone.ru/media/reviews/photos/original/cb/e8/15/IMG-9343-18-1436871708.jpg"); 
+}
+.ter{
+     width:600px;
+    height:600px;
+    padding:25px;
+    background-image:url("https://s-cdn.sportbox.ru/images/styles/upload/fp_fotos/67/1c/9ef5c88efeefb953ea056441e8a1c2b755754fb659717035799341.jpg");
+     transition-duration:1.5s;
+    background-size: contain;
+    background-repeat: no-repeat;
+    display:inline-block;
+} 
+.ter:hover{
+    border-radius:55px;
+    background-image:url("http://media-public.fcbarcelona.com/20157/0/document_thumbnail/20197/177/166/97/39954097/1.0-3/39954097.jpg?t=1485335729000"); 
+}
+.a{
+    color:white;
+}
+.vk{
+     width:300px;
+    height:300px;
+    padding:20px;
+    background-image:url("https://pngicon.ru/file/uploads/vk.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    display:inline-block;
+     transition-duration:1s;
+} 
+.fas{
+     width:300px;
+    height:300px;
+    padding:20px;
+    background-image:url("http://s1.iconbird.com/ico/2013/6/271/w513h5131371296104Facebook.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    display:inline-block;
+     transition-duration:1s;
+} 
+.fas{
+     width:300px;
+    height:300px;
+    padding:20px;
+    background-image:url("https://pngicon.ru/file/uploads/instagram.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    display:inline-block;
+     transition-duration:1s;
+} 
+
+.tel{
+     width:300px;
+    height:300px;
+    padding:20px;
+    background-image:url("https://pngicon.ru/file/uploads/whatsapp.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    display:inline-block;
+     transition-duration:1s;
+}
+
+.ser{
+     width:600px;
+    height:600px;
+    padding:25px;
+    background-image:url("https://s-cdn.sportbox.ru/images/styles/upload/fp_fotos/9f/e2/f2e7f441673d9d5a459dc07fae644a8e55b8c8ddb25bd131837560.jpg");
+     transition-duration:1.5s;
+    background-size: contain;
+    background-repeat: no-repeat;
+    display:inline-block;
+} 
+.ser:hover{
+    border-radius:55px;
+    background-image:url("https://getbg.net/upload/full/www.GetBg.net__Barcelona_Sergio_Busquets_on_the_football_field_050251_.jpg"); 
+}
+.van{
+     width:600px;
+    height:600px;
+    padding:25px;
+    background-image:url("https://static.ukrinform.com/photos/2018_08/thumb_files/630_360_1533826427-2885.jpg");
+     transition-duration:1.5s;
+    background-size: contain;
+    background-repeat: no-repeat;
+    display:inline-block;
+} 
+.van:hover{
+    border-radius:55px;
+    background-image:url("https://s-cdn.sportbox.ru/images/styles/upload/fp_fotos/8b/e2/e6639fa55b1537f60f7fb4c38e4683845b9b898db2a26751899651.jpg"); 
+}
+.vid{
+     width:600px;
+    height:600px;
+    padding:25px;
+    background-image:url("https://www.ftbl.ru/wp-content/uploads/2018/10/Arturo-Vidal.jpg");
+     transition-duration:1.5s;
+    background-size: contain;
+    background-repeat: no-repeat;
+    display:inline-block;
+} 
+.vid:hover{
+    border-radius:55px;
+    background-image:url("https://s-cdn.sportbox.ru/images/styles/upload/fp_fotos/9d/9b/eade0edc2102fb8c0c58a6096578262b5b6b1b7402a8e581130662.jpg"); 
+}
+.dem{
+     width:600px;
+    height:600px;
+    padding:25px;
+    background-image:url("https://i.ytimg.com/vi/STztuCvQ9xQ/maxresdefault.jpg");
+     transition-duration:1.5s;
+    background-size: contain;
+    background-repeat: no-repeat;
+    display:inline-block;
+} 
+.dem:hover{
+    border-radius:55px;
+    background-image:url("https://www.ftbl.ru/wp-content/uploads/2018/03/Dembele_1.jpg"); 
+}
+.um{
+     width:600px;
+    height:600px;
+    padding:25px;
+    background-image:url("https://futbol1.ru/wp-content/uploads/2018/07/umtiti.jpg");
+     transition-duration:1.5s;
+    background-size: contain;
+    background-repeat: no-repeat;
+    display:inline-block;
+} 
+.um:hover{
+    border-radius:55px;
+    background-image:url("https://campeones.ua/upload/news/60900/img_cfigueras_20180601_184153_imagenes_md_getty_gettyimages_946200188_kqfe_u444053344190sug_980x554_mundodeportivo_web.jpg"); 
+}
+.home{
+    color:white;
+    text-decoration:none;
+}
+.vk:hover{
+    -webkit-transform: translate(10px, -50px);
+          -moz-transform: translate(10px, -50px);
+          -ms-transform: translate(10px, -50px);
+          -o-transform: translate(10px, -50px);
+          transform: translate(10px, -50px);
+        
+}
+.tel:hover{
+    -webkit-transform: translate(10px, -50px);
+          -moz-transform: translate(10px, -50px);
+          -ms-transform: translate(10px, -50px);
+          -o-transform: translate(10px, -50px);
+          transform: translate(10px, -50px);
+        
+}
+.fas:hover{
+    -webkit-transform: translate(10px, -50px);
+          -moz-transform: translate(10px, -50px);
+          -ms-transform: translate(10px, -50px);
+          -o-transform: translate(10px, -50px);
+          transform: translate(10px, -50px);
+        
+}
+.inst:hover{
+    -webkit-transform: translate(10px, -50px);
+          -moz-transform: translate(10px, -50px);
+          -ms-transform: translate(10px, -50px);
+          -o-transform: translate(10px, -50px);
+          transform: translate(10px, -50px);
+        
+}
+    
+      
